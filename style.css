@@ -1,0 +1,25 @@
+.menu{
+    display : flex;
+    justify-content : space-between;
+    text-align : center;
+    font-weight: bolder;
+    color: darkmagenta;
+    align-items : baseline;
+}
+.alignment{
+    text-align: center;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content : space-between;
+    align-items : baseline;
+}
+.origami{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gridImg{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+body{background-color: rgb(224, 255, 162)};
